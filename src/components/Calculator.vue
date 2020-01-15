@@ -9,7 +9,7 @@
     <div @click="append('8')" class="button">8</div>
     <div @click="append('9')" class="button">9</div>
     <div @click="times" class="button-operator ">*</div>
-    <div @ click="append('4')" class="button">4</div>
+    <div @click="append('4')" class="button">4</div>
     <div @click="append('5')" class="button">5</div>
     <div @click="append('6')" class="button">6</div>
     <div @click="minus" class="button-operator ">-</div>
