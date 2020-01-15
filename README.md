@@ -1,4 +1,5 @@
 # calculator
+Project made by following tutorial at : https://github.com/codyseibert/vue-calculator
 
 ## Project setup
 ```
